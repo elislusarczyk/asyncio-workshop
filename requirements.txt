@@ -1,0 +1,5 @@
+asyncio
+pandas-gbq
+httpx
+fastapi
+uvicorn
